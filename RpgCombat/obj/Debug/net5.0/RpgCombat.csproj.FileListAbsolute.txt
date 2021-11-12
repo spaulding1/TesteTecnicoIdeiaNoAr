@@ -1,0 +1,16 @@
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\bin\Debug\net5.0\RpgCombat.exe
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\bin\Debug\net5.0\RpgCombat.deps.json
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\bin\Debug\net5.0\RpgCombat.runtimeconfig.json
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\bin\Debug\net5.0\RpgCombat.runtimeconfig.dev.json
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\bin\Debug\net5.0\RpgCombat.dll
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\bin\Debug\net5.0\ref\RpgCombat.dll
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\bin\Debug\net5.0\RpgCombat.pdb
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.csproj.AssemblyReference.cache
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.AssemblyInfoInputs.cache
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.AssemblyInfo.cs
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.csproj.CoreCompileInputs.cache
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.dll
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\ref\RpgCombat.dll
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.pdb
+D:\Documents\PROJETO_RPG\RpgCombat\RpgCombat\obj\Debug\net5.0\RpgCombat.genruntimeconfig.cache

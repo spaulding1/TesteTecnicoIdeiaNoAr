@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RpgCombat/1.0.0": {
+        "runtime": {
+          "RpgCombat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RpgCombat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
